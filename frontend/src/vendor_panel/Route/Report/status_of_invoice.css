@@ -1,0 +1,14 @@
+.form-check{
+    padding: 20px;
+    font-size: 18px;
+}
+
+.card{
+    width: 18rem;
+    margin-top: 180px;
+    margin-left: 580px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+
+}
